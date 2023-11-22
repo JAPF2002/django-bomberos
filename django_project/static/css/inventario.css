@@ -1,0 +1,19 @@
+#btnUpdate{
+    display: none;
+}
+
+body{
+    background-image: url('/static/imagenes/camion.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+
+}
+h1{
+    color: blanchedalmond;
+}
+label{
+    color: rgb(7, 7, 7);
+    font-size: 20px;
+    font-family: 'helveticah',Arial, Helvetica, sans-serif;
+}
